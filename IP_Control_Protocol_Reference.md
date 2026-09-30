@@ -1,3 +1,5 @@
+Samsung Smart Monitor M7 IP control over port 1516
+
 # Samsung IP Control (JSON-RPC) — Protocol Reference
 
 Consolidated reference for the undocumented JSON-RPC IP Control interface on recent
